@@ -24,17 +24,18 @@ body{
     gap: 1.5vmin;
  
 }
-.box{
+.boxes{
 height: 135px;
 width: 123px;
 border-radius: 1rem;
 border: none;
 font-size: 45px;
-background-color: cornflowerblue;
+/* background-color: ; */
 box-shadow: 0 0 1rem rgba(0, 0, 0, 0.316);
+text-align: center;
 
 }
-.rg{
+#rg{
     border-radius: 0.3rem;
     width: 100px;
     height: 30px;
